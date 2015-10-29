@@ -1,0 +1,76 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+		<title>JACKSONIAN</title>
+		<link href="history.css" rel="stylesheet" content="text/css">
+	</head>
+	<body>
+		<h1 id="banner"><a href="Historyhome.htm">Timeline</a></h1>
+		<ul id="minitabs">
+			<li><a href="politics.htm">Founding-Fathers</a></li>
+			<li><a href="society.htm">Nationalist</a></li>
+			<li><a id="current" href="economy.htm">Jacksonian</a></li>
+			<li><a href="military.htm">Sectionalist</a></li>
+		</ul>
+		<div id=left><a href="society.htm"><img src="images/left.jpg" height=200px></div>
+		<div id=right><a href="military.htm"><img src="images/right.jpg" height=200px></div>
+		
+		<table border=1 align="center">
+			<tr>
+				<th colspan=2>Key</th>
+			</tr>
+			<tr>
+				<td id=p>Political Events</td>
+				<td id=p>Blue</td>
+			</tr>
+			<tr>
+				<td id=s>Social Events</td>
+				<td id=s>Purple</td>
+			</tr>
+			<tr>
+				<td id=m>Military Events</td>
+				<td id=m>Red</td>
+			</tr>
+			<tr>
+				<td id=e>Economical Events</td>
+				<td id=e>Green</td>
+			</tr>
+			<hr>
+		</table>
+		
+		<dl>
+			
+			<dt>1828</dt>
+			<dd id=e>-The <b>Tariff of Abominations</b> was implemented in 1828 as a measure to protect Northern industries.  The tariff placed a 45% tax on many goods, the highest tax in American history. The tax, while beneficial to some Northern companies, had massive negative impacts on the Southern economy, and the tariff saw extreme opposition in the South.  The Tariff of Abominations played a major role in the Nullification Crisis and led to a series of larger conflicts that created tension between the North and the South.</dd>
+		
+			<dt>1830</dt>
+			<dd id=s>-In 1830, Andrew Jackson passed the <b>Indian Removal Act</b>, which allowed Jackson to grant unsettled lands west of the Mississippi to Indians in exchange for land in the South which Indians were occupying at the time. Some tribes went peacefully, but many tribes resisted relocation. The law created much enmity between the federal government and the Native Americans, and led to the infamous Trail of Tears 8 years later.</dd>
+		
+			<dt>1831</dt>
+			<dd id=s>-In 1831, a slave named <b>Nat Turner led a rebellion</b> in the South against slavery. Also known as the Southampton Insurrection, the rebellion took place in Southampton, Virginia. About 55 whites were killed by the slave rebellion, which was the highest number of fatalities there had been from a slave rebellion ever before. The rebellion was put down within a few days, with most of the slaves being executed, but the rebellion caused fear of rebellion throughout the South.  It also played an early role in the abolitionist movement.</dd>			
+		
+			<dt>1832</dt>
+			<dd>-The <b>Tarff of 1832</b> was an attempt to right the wrong created by the Tariff of Abominations in 1828. The Tariff of 1832 reduced the Tariff from 45% to 35%. The Tariff was still deemed an abomination by many in the South, and still left the South angry. They still claimed that the tariff benefitted Northern factories at the expense of Southern farm workers. South Carolina still wanted to nullify the tariff. The Tariff of Abominations and the Tariff of 1832 both led to South Carolina’s Ordinance of Nullification, which created tension between federal and state powers. The Tariff of 1832 was quickly replaced with the Compromise Tariff of 1833.</dd><br/>
+			<dd>-The <b>South Carolina Ordinance of Nullification</b> was an attempt to establish a state’s right to nullify any federal law that the state did not see as beneficial to them.  With the South Carolina Ordinance of Nullification, the state of South Carolina declared that the Tariffs of 1828 and 1832 invalid in their state. This led to strict action from Andrew Jackson, who replied with the Force Bill, and refused to accept South Carolina’s Ordinance.  This was one of the first of many sectional issues that divided the Union.</dd>
+			
+			<dt>1833</dt>
+			<dd>-In 1833, Andrew Jackson passed the <b>Force Bill</b>. Jackson passed the Force Bill in response to South Carolina’s Ordinance of Nullification. While Jackson did believe in the power of states and the Southern economy’s predicament, he wouldn’t allow nullification to tear apart the Union. The Force Bill allowed him to send troops into South Carolina to enforce the Tariffs that they intended to nullify. This was another event that created strong sectional tension.</dd>
+			
+			<dt>1836</dt>
+			<dd id=s>-Texas had been a part of Mexico in 1835. Mexico wanted to populate Texas more, in the hopes that American settlers would integrate and become part of Mexico, helping it expand, so it invited American settlers to Texas. The result of this was that America settlers in Mexico still felt loyalty to the United States, so the settler population of Mexico fought for independence, and eventually <b>Texas became independent of Mexico</b>, hoping to be annexed by the United States. However, America was in no position to go to war with Mexico over Texas at the time, so it left Texas as an independent republic for the time being. Texas later played a major role in sectional divisions and its annexation contributed largely to the Mexican-American War.</dd>
+			
+			<dt>1837</dt>
+			<dd id=s>-In 1832, <b>Samuel F.B. Morse created a better version of the electric telegraph</b>, which allowed for communication across long distances.  This had a huge impact on the country, as information could now be relayed from one place to another much faster. Morse bettered the existing version of the telegraph. It led to expansion of businesses and increases in immigration, because immigrants could quickly connect with family members back home.</dd><br/>
+			<dd id=e>-In 1837, <b>another market crash occurred in the United States</b>. The cause of the economic crash was a result of the failures of many ‘wildcat’ banks, over speculation, and Jackson’s Specie Circular, which required all property to be bought with hard money. Unemployment soared after the crash. The crash, largely caused by the policies of Andrew Jackson, was blamed on Martin Van Buren as soon as he came into office in 1837, and led to a low public opinion of him.</dd>
+			
+			<dt>1838</dt>
+			<dd id=s>-<b>Trail of Tears:</b>In 1838 the Cherokee Indians were forced to move away from their homelands by the American government. After the Indian Removal Act was passed, many tribes were forced out of their lands. In 1838, the Cherokees were forced to move from their lands east of the Mississippi River to Oklahoma. Thousands died along the way. This furthered hostilities between the American government and the Indian tribes.</dd>
+			
+			<dt>1839</dt>
+			<dd id=s>-In 1839, <b>Theodore Dwight Weld wrote “American Slavery As It Is”</b>. His book was one of the first books to be written against the institution of slavery. It brought the concepts of slavery and abolition to the homes of many who hadn’t thought about it before, much like “Uncle Tom’s Cabin” did.  It brought many to the abolitionist cause, which was a strong part of sectional divisions.  The abolitionist cause became one of the many main causes of the Civil War, and “American Slavery As It Is” furthered the cause.</dd>
+			
+			
+		</dl>
+	</body>
+</html>

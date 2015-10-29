@@ -1,0 +1,120 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+		<title>FOUNDING FATHERS</title>
+		<link href="history.css" rel="stylesheet" content="text/css">
+	</head>
+	<body>
+		<h1 id="banner"><a href="Historyhome.htm">Timeline</a></h1>
+		<ul id="minitabs">
+			<li><a id="current" href="politics.htm">Founding-Fathers</a></li>
+			<li><a href="society.htm">Nationalist</a></li>
+			<li><a href="economy.htm">Jacksonian</a></li>
+			<li><a href="military.htm">Sectionalist</a></li>
+		</ul>
+		<a id=right href="society.htm"><img src="images/right.jpg" height=200px>
+		<table border=1 align="center">
+			<tr>
+				<th colspan=2>Key</th>
+			</tr>
+			<tr>
+				<td id=p>Political Events</td>
+				<td id=p>Blue</td>
+			</tr>
+			<tr>
+				<td id=s>Social Events</td>
+				<td id=s>Purple</td>
+			</tr>
+			<tr>
+				<td id=m>Military Events</td>
+				<td id=m>Red</td>
+			</tr>
+			<tr>
+				<td id=e>Economical Events</td>
+				<td id=e>Green</td>
+			</tr>
+			<hr>
+		</table>
+		
+		<dl>
+			<dt>1776</dt>
+			<dd>-<b>Declaration of Independence</b>- Written on July 2, 1776- Written by Thomas Jefferson and other revolutionaries, the Declaration of Independence declared the independence of America from Britain.</dd> 
+			<img src="images/DOI.jpg" height="300px">
+			
+			<dt>1777</dt>
+			<dd>-<b>Articles of Confederation</b>-ratified late 1777- The Articles of Confederation were America’s first form of government. It was proven to be weak, but it provided standards for the future Constitution.</dd><br/>
+			<dd id=m>-<b>Battle of Saratoga</b> Sep-Oct 1777- Many regard the Battle of Saratoga as the <u>turning point</u> in the war. British General Burgoyne was forced to surrender after he lost nearly triple the amount of men that the Americans lost. Also, the French were quick to support the Americans after seeing the Americans were capable of winning the war.</dd>
+			
+			
+			<dt>1783</dt>
+			<dd>-<b>Treaty of Paris</b>-September 3, 1783- The Treaty of Paris of 1783 signed between America and Britain ended the American War for Independence.</dd>
+			
+			<dt>1785</dt>
+			<dd>-<b>Land Ordinance of 1785</b>- The ordinance sold the Old Northwest after surveying the land and splitting it into 36 square mile sections, with one school. It was one of the few strengths of the Articles of Confederation, and allowed the orderly settlement of the West.</dd>
+			
+			<dt>1786</dt>
+			<dd><b>-Shays’ Rebellion</b>-1786-1787- The rebellion was led by Daniel Shays and others war veterans who had lost their farms. The rebellion <u>showed the weakness of the Articles of Confederation</u> because it could not send an army to stop the rebels.</dd>
+			
+			<dt>1787</dt>
+			<dd>-<b>Northwest Ordinance of 1787</b>- The Northwest Ordinance of 1787 stated that territories would be admitted as states if they had 60,000 inhabitants. Also, it banned slavery in all of the Old Northwest. Similar to the Land Ordinance of 1785, the ordinance helped populate western territory in an orderly fashion.</dd><br/>
+			<dd>-<b>Great Compromise</b>-1787-Small and large states compromised on the topic of a legislative branch, reaching an agreement on a House that would have representation based on population, and a Senate with equal representation for all states.</dd><br/>
+			<dd>-<b>Constitution</b>-September 17, 1787- The Constitution were the laws that set up the new government for America; it addressed problems encountered in the Articles of Confederation.</dd>
+		
+			<dt>1791</dt>
+			<dd><b>-Bill of Rights</b>-December 15, 1791- The Bill of Rights was essential in convincing the antifederalists to ratify the Constitution. This bill <u>guaranteed citizens basic rights</u> that were added onto the Constitution as federal law. The first two amendments give the <u>freedom of speech</u> and the <u>right to bear arms</u>.</dd>
+			<img src="images/freedom_speech.jpg" height="300px">
+			<img src="images/gun.jpg" height="300px">
+			<dd><b>-Whiskey Rebellion</b>-1791- Rye and corn farmers in west Philadelphia protested about  Hamilton’s whiskey tax, but Washington’s army was quick to end the revolt. This rebellion marked the first use of Washington’s army and <u>showed the strenght of the federal army</u>.</dd><br/>	
+			<dd id=e><b>-Bank of United States</b>-February 25, 1791- The Bank of the United States was created by Alexander Hamilton. This bank was intended to <u>hold federal money and also loan out money</u>. Many antifederalists believed it granted the government too much power, but it still eventually passed. Also, it standardized money.</dd>
+			<img src="images/bank_us.jpg" height="300px">
+			<img src="images/hamilton.jpg" height="300px">
+			
+			
+			<dt>1792</dt>
+			<dd>-<b>George Washington</b> was elected. He was the first president. He was also the only president who was not part of a political party.</dd>
+			<img src="images/images.jpg" height="200px">
+			
+			<dt>1793</dt>
+			<dd id=e>-Because of the invention of the <b>cotton gin</b>, cotton bacame the <u>new dominant cash crop</u> in the south. It replaced tobacco. The production of cotton materials increased a lot alot with the dependence on slave labor. The south became known as "King Cotton". <u>The southern economy depended on cotton</u>.</dd>
+			<img src="images/cotton.jpg" height="300px">
+			
+			<dt>1797</dt>
+			<dd>-Americans did not enjoy having their merchant ships seized by French privateers and warships. Thus, President Adams sent diplomats to France to negotiate. French ministers X, Y, and Z (their names were never revealed) wanted bribes in return for diplomatic access. The American delegates refused. News of the <b>XYZ affair</b> angered Americans. Hamiltonian Federalists now wanted war against France to get French and Spanish territories in North America. Adams, however, declined to go to war because the US military was not powerful enough to challenge France. The XYZ affair destroyed Franco-American relations and set the stage for Federalist victory in the congressional elections of 1798, since the Federalists were anti-French and Americans now hated the French.</dd>
+			
+			<dt>1798</dt>
+			<dd id=e>-Before, every single product was individually made, and because of this, if one component broke, a custom replacement needed to be made. This was not efficient. <b>Eli Whitney came up with the idea of having machines make each part identically</b>. <u>It later became the basis for mass production, which contributed significantly to America’s industrial growth</u>.</dd><br/>
+			<dd>-Americans hated France after the XYZ Affair. Federalists’ anti-French policies thus won them a majority in both houses after the congressional elections of 1798. To cement their victory, they decided to enact laws to weaken the opposition, to ensure that they would have an advantage in years to come. Federalists passed the <b>Naturalization Act, which increased the number of years before an immigrant could qualify for US citizenship from 5 to 14</b>, because most immigrants voted Democratic-Republican. They also passed the <b>Alien Acts, which gave the president the power to deport and detain dangerous aliens</b>. Finally, they passed the <b>Sedition Act, which prohibited newspapers from criticizing the government</b>, imprisoning and fining them if they did not comply. The Alien and Sedition Acts did not have a great effect, because Republicans gained a majority in Congress after the election of 1800, and repealed or expired them.</dd>
+			
+			<dt>1799</dt>
+			<dd>-The <b>Alien and Sedition Acts</b> angered Republicans. The Kentucky legislature, influenced by Thomas Jefferson, and the Virginia legislature, influenced by James Madison, introduced “nullification” resolutions, allowing states to nullify Congressional laws. Both resolutions invoked the “compact” argument, stating that the federal government was a compact of states, and thus if federal acts broke the compact, then states had the right to nullify the federal act. This set the stage for the nullification controversy in the 1830s.</dd>
+			
+			<dt>1800</dt>
+			<dd>-Because of the Alien and Sedition Acts, and Federalist taxation to build up the Navy, the Federalists lost votes, causing them to lose both the presidency and Congress. Thomas Jefferson and Aaron Burr, both Republicans, tied in the Electoral College. Thus, by the Constitution, the House of Representatives voted to break the die. At that time, the Federalists still controlled the House. <b>They voted for Jefferson</b>, because he was less dangerous and more upright than Burr. <u>This was the first time power transferred from one party to another</u> voluntarily, which showed the strength of American democracy. The effect was Republican domination of the executive and legislative branches of government and a democratic precedent.</dd><br/>
+			<dd>-Right before leaving office, Adams signed many Federalist judge appointments and left them on the presidential desk for Jefferson to approve. However, Adams told Secretary of State James Madison to not deliver the commissions to the Federalist judges. This angered William Marbury, one of the judges, who sued Madison for his commission. The effect was that <b>Marbury v. Madison</b> (1803) became a Supreme Court case.</dd>
+			
+			<dt>1803</dt>
+			<dd>-It was a reaction to electoral troubles in the elections of 1796 and 1800. Before the 12th  Amendment, the president would be the candidate with the most electoral votes and the vice-president would be the candidate with the second most. However, this caused 2 people with completely different ideologies to share the White House, hindering effective politics. The <b>12th  Amendment</b> allowed <u>Presidents and Vice Presidents to run</u> on tickets and made it so people ran for either President or Vice President, not both. The effect was that the multi-party system solidified in America, since the rise of political tickets complemented the rise of political parties.</dd><br/>
+			<dd>-Directly caused by Jefferson’s refusal to deliver the Federalist judging commissions, this was the first important decision made by John Marshall. Marshall agreed that Marbury had a right to the commission, because of the Judiciary Act of 1789, but the Judiciary Act was unconstitutional, because it gave the Judiciary unconstitutional power, so he could not legally obtain the commission. The effect was that Marshall established <b>judicial review</b>, <u>giving the Supreme Court the power to decide if executive or legislative acts were constitution or not</u>.</dd><br/>
+			<dd>-Napoleon originally wished to increase the size of the French empire in the Americas. However, in 1803, he gave up on this idea because Santo Domingo rebels, led by Toussaint l’Ouverture, overthrew French rule and killed many French, and because he needed to concentrate his resources to fight England. In addition, Western American farmers relied on New Orleans to ship goods to the world. When Spain revoked the right of deposit in 1802, Westerners wanted the government to intervene to protect their economic livelihoods. 
+			     Finally, Jefferson was also afraid that having a foreign power in New Orleans would lead to foreign conflicts. Thus, Jefferson sent diplomats to France to buy New Orleans and territories to its East for $10 million. However, French diplomats offered New Orleans and the <b>Louisiana Territory</b> for $15 million. The American diplomats accepted. It led to a minor Constitutional crisis, because Jefferson believed in a strict interpretation of the Constitution and the Constitution never specified the purchasing of foreign lands. The Senate ratified the purchase. The grander consequences were that the size of the <u>United States increased by half</u>; one foreign power stopped bordering the United States; the Western frontier increased; <u>Jefferson’s dream of an agricultural nation were strengthened</u>; Jefferson’s popularity increased; the Federalists became weakened and sectionalist, claiming the majority of support in New England. It also led to the Lewis and Clark Expeditions.</dd>
+			
+			<dt>1804</dt>
+			<dd>-Jefferson persuaded Congress to send a scientific expedition to the lands west of the Mississippi River. In 1804, <b>Captain Meriwether Lewis and Lieutenant William Clark set off on the journey</b>. After reaching the Pacific coast, they returned back home in 1806. <u>The expedition increased scientific and geographic information about the West</u>, allowed contact with native tribes, and increased the legitimacy of American claims to Oregon.</dd>
+			
+			<dt>1807</dt>
+			<dd id=e>-There was serious anti-British sentiment in the US. Jefferson did not want to resort to war. He instead created an embargo that banned American merchants from sailing to foreign ports. Jefferson hoped that the embargo would force Britain to stop violating the rights of Americans. However, the embargo hurt the US more than it hurt the United Kingdom, because the UK could just rely on South American goods. <u>The US economy was destroyed</u>, especially affecting Northern shipbuilders and merchants. It led to a short-lived New English secession movement and a weakening of the embargo. In the long term, the <b>Embargo Act</b> <u>was beneficial for American industry</u>, because it became more independent afterwards. By forcing manufacturers to rely on US goods and markets, <u>it led to more interconnectedness between the three sections</u>. Destruction of American industry helped Americans rebuild it from the ground up, which laid the foundations for American industrial power.</dd>
+			
+			<dt>1811</dt>
+			<dd id=m>-Settlers had slowly encroached westward over the years, forcing Native Americans off their traditional lands. Tecumseh and his brother Prophet tried to unify all of the native peoples east of the Mississippi. The British aided them, because they wanted to weaken America. Tecumseh promoted Indian culture. In 1811, <b>General William Henry Harrison defeated native forces at Tippecanoe</b>. In 1813, he defeated combined native and British forces, killed Tecumseh, and thus destroyed native resistance east of the Mississippi. The defeat of the natives <u>allowed for greater colonial expansion into Ohio and the southwestern frontier.</u></dd>
+			
+			
+			
+			
+			
+			
+			
+			
+		</dl>	
+	</body>
+</html>

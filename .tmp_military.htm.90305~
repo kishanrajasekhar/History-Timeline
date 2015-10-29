@@ -1,0 +1,104 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+		<title>SECTIONALIST</title>
+		<link href="history.css" rel="stylesheet" content="text/css">
+	</head>
+	<body>
+		<h1 id="banner"><a href="Historyhome.htm">Timeline</a></h1>
+		<ul id="minitabs">
+			<li><a href="politics.htm">Founding-Fathers</a></li>
+			<li><a href="society.htm">Nationalist</a></li>
+			<li><a href="economy.htm">Jacksonian</a></li>
+			<li><a id="current" href="military.htm">Sectionalist</a></li>
+		</ul>
+		<div id=left><a href="economy.htm"><img src="images/left.jpg" height=200px></div>
+		<table border=1 align="center">
+			<tr>
+				<th colspan=2>Key</th>
+			</tr>
+			<tr>
+				<td id=p>Political Events</td>
+				<td id=p>Blue</td>
+			</tr>
+			<tr>
+				<td id=s>Social Events</td>
+				<td id=s>Purple</td>
+			</tr>
+			<tr>
+				<td id=m>Military Events</td>
+				<td id=m>Red</td>
+			</tr>
+			<tr>
+				<td id=e>Economical Events</td>
+				<td id=e>Green</td>
+			</tr>
+			<hr>
+		</table>
+		
+		<dl>
+			
+			
+			<dt>1844</dt>
+			<dd>-<b>James Polk</b> was elected for president by the expansionist democrats. <u>He believed in manifest destiny, the belief that the United States would spread from coast to coast</u>, and then eventually the whole continent. <u>His objectives were to have a lowered tariff, restore the independent treasury, aquire California, and settle the Oregon dispute.</u></dd>
+			<img src="images/polk.jpg" height="200px">
+			
+			<dt>1845</dt>
+			<dd>-Because Polk won the election, president lame-duck Tyler decided to annex Texas. He did so with a <u>joint resolution</u>. It recieved a majority vote from both housed in Congress, so <b>Texas was finally admitted into the Union</b>. The president signed the resolution three days before he left office.</dd><br/>
+			<dd id=m>-On January 13, Polk sent 4000 men under General Zachary Taylor to march to the Rio Grande. On April 15, <u>Taylor's command was assaulted by the Mexican troops</u> who had crossed the Rio Grande, so on May 9, <b>Congress declared war on Mexico</b>.
+			This war lasted until 1848. America had some successful military campaigns. Genreal Stephen conquered Santa Fe and southern California. John C. Fremont took care of norhtern California, which caused Califrnia to become an independent state for a short time. It was called the Bear Flag republic. Also Zachary Taylor's force won a major battle at Buena Vista.</dd><br/>
+			<dd>-President Polk sent John Slidell to Mexico City. <b>Slidell was to offer up to 25 million for California</b>. His offer was rejected, and Polk used Slidell's rejections as a reason to declare war on Mexico.</dd>
+			
+			<dt>1846</dt>
+			<dd>-The <b>British proposed to divide the Oregon territory at the 49th parallel</b>. U.S. Senators accpeted this proposal. The U.S. was already at war with Mexico, so they could not afford to get in a fight with Britain. This completed Polk's goal of resolving the Oregon conflict.</dd><br/>
+			<dd>-The <b>Walker Tariff of 1846</b> was designed by Robert J. Walker. The new rate of this tarigg was 25 percent, which was reduced from 32 percent rate of the Tariff of 1842. Polk's goal for a lowered tariff was accomplished.</dd><br/> 
+			<dd id=s>-David Wilmot proposed the <b>Wilmot Proviso</b>, which would forbid slavery in the Mexican Cession. The Wilmot Proviso did not pass through the Senate, but it <u>re-opened the issued of whether a state should have slaves or not</u>. General Lewis Cass temporarly found a resolution to this problem. He came up with the idea of <b>popular sovereignty</b>. The people who settled the land would decide if the state would be free of have slaves.</dd>
+			
+			
+			<dt>1848</dt>
+			<dd id=s>-The <b>Treaty of Guadalupe Hidalgo</b> was signed. The Rio Grande became the new border of Texas, and the U.S. bought land from New Mexico to California for 15 million. This area is known as the Mexican Cession. The U.S. now stretched from the Atlantic Ocean to the Pacific Ocean. Polk's goal was accomplished, and people start moving west to California.</dd><br/>
+			<dd id=s>-<b>Gold was dicovered in California</b>. This ignited the gold rush and caused many people to move there in hopes of "striking it rich". The population of California grew quickly, and as a result, it apllied for state hood the following year, and that led to the Compromise of 1850. This also resulted in inflation since more gold meant that more money was in circulation.</dd>
+			<img src="images/gold.jpg" height="300px">
+		
+		
+			<dt>1850</dt>
+			<dd id=s>-The <b>Compromise of 1850</b> admitted California into the Union as a free state. Arizona and New Mexico were open to popular sovereignty. This was an advantage for the north.
+				      The <b>Fugitive Slave Act</b> was passed. This was supposed ot help the south. Any run away slaves found in a free soil state were to be sent back to their master. The north did not enforce this law, which angered southerners. The north got the better deal from the compromise, and sectionalism increased. This event is the major catalyst of the events leading to the American Civil War.</dd><br/>
+			<dd id=s>-Some slaves escaped bondage by using the <b>Underground Railroad</b>. There would be "conductors" leading the escapees to safe houses. Conductors also talked in code, calling the escapess "cargo". One famous conductor was <b>Harriet Tubman</b>, a former slave. She rescued more than 300 slaves. The Fugitive Slave law was suppposed to put an end to the Underground Railroad, but it was poorly enforced by the north.</dd>
+			
+			<dt>1852</dt>
+			<dd>-<b>Franklin Pierce</b> was elected by the democrats.</b></dd><br/>
+			<dd>-President Pierce sent three diplomats to Ostend, Belgium so that they could purchase Cuba from Spain for southerners. The diplomats made the <b>Ostend Manifesto</b>, which was written in secret, but the Ostend Manifesto was discoved, angering people who were against slavery.</dd><br/>
+			<dd id=s>-<b>Uncle Tom's Cabin was published by Harriet Beecher Stowe</b>. This book made slavery seem horrible, and <u>many northerners who read it wanted slavery to be abolished</u>. This book was banned in the south, but it sold in Europe, and many Europeans had the same opinions as the northerners.
+				This prevented foreingn intervention during the civil war. When Lincoln announced the Emancipation, the war was about abolishing slavery, which Europeans supported. This booked was banned in the south. Southerners argued that slaves were better taken care of on plantations then the free blacks working in the factories in the north for a minimum wage.</dd>
+			<img src="images/tom.jpg" height="300px">
+			
+			<dt>1854</dt>
+			<dd>- The <b>Kansas-Nebraska Act</b> divided the Nebraska territory (which is inside the Lousiana purchase territory) into 2 states: Kansas and Nebraska. Nebraska was a free state, while Kansas was open to popular sovereignty. This led to the birth of the <b>Republican Party</b>, composed of ex-Free-Soilers, Whigs, and Democrats. 
+			At first, the Republicans did not want slavery to spread, so they were against eh Kansas-Nebraska Act. Later on abolitionists joined the party.</dd>
+			
+			<dt>1855</dt>
+			<dd id=s>-Because of the Kansas-Nebraska Act, Kansas was open to popular sovereignty. As a result the <b>New England Emigrand Aid Company</b> paid people who were against slavery to settle there. The pro-slavery southerners did the same, which started the conflict whether Kansas should be a free state or not. As a result, tensions between the north and south increased.</dd>
+			
+			<dt>1856</dt>
+			<dd>-<b>James Buchanan</b> was elected to be president by the democrats.</dd><br/>
+			<dd id=s>-In Kansas, the northerners and southerners had contrasting views about slavery. As a consequence, pro-slavery southerners attacked the anti-slavery town of Lawrence. In return John Brown, an abolitionist, attacked <b>Pottawatomie Creek</b>. These battles in Kansas <u>increased tensions between the north and the south</u>.</dd> 
+			
+			<dt>1857</dt>
+			<dd>-In the <b>Dred Scott decision</b>, Court Justice Taney declared that Congress had no right to control private property, which included slaves. Therefore, the Missouri Compromise was declared unconstitutional.</dd>
+			
+			<dt>1858</dt>
+			<dd>-The <b>Lecompton Constitution</b> was rejected by Congress. It would have made Kansas a slave state, but it was not supported by a majority of the settlers.</dd><br/>
+			<dd>-Stephen Douglas brought up the <b>Freeport Doctrine</b> during the Lincoln-Douglas debates, which said that territorial legislatures could still exclude slavery. As as result, Douglas won the seat in the Senate but lost Democrat supporters.</dd>
+			
+			
+			<dt>1860</dt>
+			<dd>-<b>Abraham Lincoln</b>, voted for by Republicans, won the presidential election, which cause most of the southern states to secede from the Union, starting with South Carolina.</dd>
+			<img id src="images/lincoln.jpg" height="200px">
+			
+			<dt>1861</dt>
+			<dd>-Senator John Crittendenof Kentucky proposed the <b>Crittenden Compromise</b>. It would allow slavery in all territories south of 36*30'. This was rejected by Lincoln because it would violate the Republican platform against slavery.</dd><br/>
+			<dd id=s>-The <b>Confederate States of America</b> was created at Montgomery, Alabama. Jefferson Davis was the president.</dd>
+			<img src="images/confederate.jpg" height="200px">
+		</dl>

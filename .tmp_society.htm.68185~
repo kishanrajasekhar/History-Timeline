@@ -1,0 +1,91 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+		<title>NATIONALIST</title>
+		<link href="history.css" rel="stylesheet" content="text/css">
+	</head>
+	<body>
+		<h1 id="banner"><a href="Historyhome.htm">Timeline</a></h1>
+		<ul id="minitabs">
+			<li><a href="politics.htm">Founding-Fathers</a></li>
+			<li><a id="current" href="society.htm">Nationalist</a></li>
+			<li><a href="economy.htm">Jacksonian</a></li>
+			<li><a href="military.htm">Sectionalist</a></li>
+		</ul>
+		<a id=right href="economy.htm"><img src="images/right.jpg" height=200px>
+		<a id=left href="politics.htm"><img src="images/left.jpg" height=200px>
+		<table border=1 align="center">
+			<tr>
+				<th colspan=2>Key</th>
+			</tr>
+			<tr>
+				<td id=p>Political Events</td>
+				<td id=p>Blue</td>
+			</tr>
+			<tr>
+				<td id=s>Social Events</td>
+				<td id=s>Purple</td>
+			</tr>
+			<tr>
+				<td id=m>Military Events</td>
+				<td id=m>Red</td>
+			</tr>
+			<tr>
+				<td id=e>Economical Events</td>
+				<td id=e>Green</td>
+			</tr>
+			<hr>
+		</table>
+		
+		<h2>American Nationalism</h2>
+		<p>
+			Nationalism from the War of 1812 led to many important American cultural and economic events. It created a growth in American literature, especially Washington Irving and James Fenimore Cooper. Americans made their own textbooks, instead of using British ones. In 1815, the North American Review, an intellectual paper, began publication. It also increased patriotic painting, as painters increasingly took beautiful American landscapes as art subjects. Finance nationalized as well, when Congress reenacted the Bank of the United States in 1816. 
+			The White House and military were also expanded. A nationalistic nation demanded a nationalist financial program, the American System, and an age of celebration and patriotism, the Era of Good Feelings.
+		</p>
+	
+		<dl>
+			<dt>1810</dt>
+			<dd>-<b>Lowell’s Industrial Contributions</b> (1810-1817): Francis Cabot Lowell realized that for the United States to be truly independent, it must industrialize. He memorized manufacturing plans for spinning and weaving looms and brought the plans to America. This allowed for the growth of American industry and truly started the industrialization of America.</dd>
+			
+			<dt>1812</dt>
+			<dd id=m>-<b>The War of 1812:</b>The war was caused by the impressment of American sailors into the British Navy, the desire of Americans for more land, the rise of war hawk Republicans in Congress, and British ignores of American demands. Unfortunately, the British government had already agreed to stop blockading the US, but due to slow message delivery times, their message was delayed until after war was declared. New English merchants, Federalists, and “Old” Republicans opposed the war on many grounds. 
+			     The war concluded with the Treaty of Ghent, which was an armistice and an agreement to return conquered lands, effectively returning America and Britain to their antebellum borders. The war is sometimes called the Second War for American Independence, because <u>it made foreign powers respect the American military and American diplomats</u>, temporarily ended sectionalism, created war heroes, caused natives to cede lands north of the Ohio River to America, increased American nationalism, stimulated and made independent American manufacturing, and increased hate of Britain. The war also dealt a deathblow to the Federalists, because “Blue Light” Federalists supposedly aided the British in New England.</dd><br/>
+			<dd id=m>-Madison hoped that England would spend most of its resources fighting France, instead of America and that the Americans would win in Canada. Western farmers wanted Canada, because they wanted fertile land. Thus, American invaded Canada from Detroit, Niagara, and Lake Champlain. The attacks failed, preventing American acquisition of Canada, which otherwise could have happened.</dd>
+			
+			<dt>1815</dt>
+			<dd id=s>Era of Good Feelings (1815-1825):  It was caused by emerging nationalism after the War of 1812. It coincided with the presidency of James Monroe. People celebrated the American nation, including New England, which had hosted an unsavory secessionist movement just several years before. <u>The Federalist Party had just dissolved, temporarily ending the two-party system</u>. The Era of Good Feelings ended when sectional feelings reemerged in the Missouri controversy.</dd>
+			
+			<dt>1816</dt>
+			<dd id=e>(1816-1825):<b>The American System</b> was a reflection of the nationalistic feelings emerging in this time period and was also a pragmatic measure to combat British attempts to destroy American industry by dumping cheap, surplus British goods into US markets. Through a series of financial programs, the United States nationalized economically and solidified itself as a whole nation. First, the Tariff of 1816 was instituted to provide protection for fledgling American industry. Next, <b>Henry Clay implemented the American System</b>, consisting of the following: <b>a strong banking system</b>, with easy and plentiful credit; <b>a protective tariff</b>; and a <b>network of canals and roads</b>, especially in the Ohio River, funded by the tariff. <u>Manufactured goods would flow south and west, while raw materials and food would flow north and east, cementing American unity</u>.</dd>
+			
+			
+			
+			<dt>1819</dt>
+			<dd id=e>-The <b>Panic of 1819</b> was the period of time beginning in 1819 where the economy of the United States crashed. This was the first true Panic that America experienced. America fell into the panic mostly due to over speculation, where people bought land with the intention of selling it later for a profit, but eventually the land gets sold for less than what it was worth, until the value of property drops drastically. This Panic contributed to the so called “Era of Good Feelings,” the period in time after the War of 1812 that was characterized by a sense of nationalism and a sequence of events harmful to America.</dd><br/>
+			<dd>-Maryland tried to destroy the Marylandian branch of Bank of the US by taxing it. John Marshall ruled Maryland’s act unconstitutional through the implied powers of the constitution. “The power to tax involves the power to destroy” and “a power to create implies a power to preserve”, declared Marshall. This increased the legitimacy of the doctrine of “loose construction”.</dd>
+			
+			<dt>1820</dt>
+			<dd id=s>-The <b>Missouri Compromise</b> was an agreement made in Congress, orchestrated by Henry Clay, which settled the dispute that surrounded Missouri’s statehood. Missouri wanted to enter the Union as a slave state, which would create unbalance in Congress between slave and free states. It was decided that Missouri would enter as a slave state, Maine would enter as a free state, and no more slavery in the Louisiana Territory would be permitted above the 36°30” line. This compromise only temporarily healed a growing problem, and set the stage for a much larger conflict between the slave and free states.</dd>
+			
+			<dt>1823</dt>
+			<dd>-In 1823, President James Monroe issued his famous <b>Monroe Doctrine</b>. This Doctrine attempted to impose the polices of noncolonization and nonintervention on Europe. The Doctrine also stated that the United States would help any countries in need of protection from Europe in North and South America. This doctrine helped play a role in the freeing and independence of many Latin American countries, and established America as a world power that could stand against the countries of Europe.</dd>
+			
+			<dt>1826</dt>
+			<dd id=s>-The <b>American Temperance Society</b> was a society with the common goal to reduce the amount of drinking occurring in America. Drunkenness was very common in America and the American Temperance Society attempted to curb this. They began a movement that persisted well into the 20th century, and it culminated with the 18th Amendment, when Prohibition began. Manufacturing and selling alcohol became illegal.  The movement ultimately failed.</dd>
+			
+			
+			<dt>1825</dt>
+			<dd id=e>-The <b>Erie Canal</b> was a canal built in New York, supported by Governor DeWitt Clinton, which was one of America’s first great works of civil engineering. The Erie Canal facilitated trade and commerce throughout the area. It led to a huge growth in trade in the North. It also helped the North begin its transition to an industrial society.</dd>
+			
+			
+			
+			
+			
+			
+			
+			
+		
+		</dl>
+	</body>
+</html>
